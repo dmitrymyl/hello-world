@@ -1,3 +1,2 @@
 # hello-world
-Test project
-Another version of
+Bioinformatics student at FBB MSU.
